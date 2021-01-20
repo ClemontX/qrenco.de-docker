@@ -1,6 +1,6 @@
 [![Build status](https://dev.azure.com/clemont/ClemontX.DE/_apis/build/status/ClemontX.DE-Docker%20container-CI)](https://dev.azure.com/clemont/ClemontX.DE/_build/latest?definitionId=3)
 # qrenco.de-docker
-This is a simple Container-Image running [qrenco.de](https://github.com/endroid/qr-code).
+This is a simple Container-Image running [qrenco.de](https://github.com/chubin/qrenco.de).
 Feel free to take a look on the original repository.
 ## Usage
 `
