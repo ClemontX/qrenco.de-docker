@@ -6,6 +6,7 @@ Feel free to take a look on the original repository.
 `
 docker run -tid -p 8003:8003 clemontx/qrenco.de
 `
+<br>
 To have it running on another local port, just change the first 8003 before the : to another local machine port you want to use.
 ## Sample
 A sample deployment is available [here](https://qr.cxde.link)
